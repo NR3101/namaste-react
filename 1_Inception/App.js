@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /* createElement() is used to create a React element(which is an object) in React. Takes 3 args:
 1. name of element 2.attributes to element(ex: id, props) 3.inner HTML(ander kya hga vo)   
 */
