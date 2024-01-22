@@ -1,14 +1,15 @@
 {
-  "name": "1_inception",
+  "name": "3_foundation",
   "version": "1.0.0",
-  "description": "Namaste React",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "jest" 
+    "test": "jest"
   },
   "keywords": [],
-  "author": "Neeraj Rai",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.11.0",
